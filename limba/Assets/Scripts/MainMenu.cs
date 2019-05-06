@@ -22,4 +22,10 @@ public class MainMenu : MonoBehaviour
     {
         audioMixer.SetFloat("volume",volume);
     }
+
+    public void Tutorial()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+    }
 }
+
