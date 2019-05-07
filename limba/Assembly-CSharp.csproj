@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\Draggable.cs" />
     <Compile Include="Assets\Scripts\DropZone.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\OnCol.cs" />
     <Compile Include="Assets\Scripts\Word.cs" />
     <Compile Include="Assets\Scripts\WordDisplay.cs" />
     <Compile Include="Assets\Scripts\WordGenerator.cs" />

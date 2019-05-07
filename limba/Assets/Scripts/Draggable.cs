@@ -6,6 +6,7 @@ using UnityEngine.EventSystems;
 public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler,IEndDragHandler
 {
     public Transform parentToReturnTo = null;
+    
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("OnBeginDrag");
@@ -27,5 +28,7 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler,IEndDrag
         this.transform.SetParent(parentToReturnTo);
         GetComponent<CanvasGroup>().blocksRaycasts = true;
         //EventSystem.current.RaycastAll(eventData);
+        Debug.Log(eventData.pointerDrag.name + "asetati" + gameObject.name);
+      
     }
 }

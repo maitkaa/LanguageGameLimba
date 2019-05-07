@@ -5,51 +5,38 @@ using UnityEngine.EventSystems;
 
 public class DropZone : MonoBehaviour, IDropHandler
 
-    
+
 {
     public bool InTheBox = false;
-    public GameObject UK,ESP,FIN,WordBox,SWE,EST,GER;
-    public void InBox()
+    public GameObject UK, ESP, FIN, WordBox, SWE, EST, GER;
+    /*
+    void OnTriggerEnter2D(Collider2D col)
     {
         //GameObject WordBox = GameObject.FindGameObjectWithTag("WORD");
         
-        while (InTheBox == true)
+        if (col.gameObject.tag=="WORD")
         {
-            if (WordBox = EST)
-            {
-                Debug.Log("EESTI SAI SISSE");
-            }
-            else if (WordBox = SWE)
-            {
-                Debug.Log("Swe SAI SISSE");
-            }
-            else
-            {
-                Debug.Log("Kao ära pagulane");
-            }
-            return;
+            Debug.Log("Eesti tuli");
         }
-           
         
-       
     }
+    */
 
     public void OnDrop(PointerEventData eventData)
     {
-        Debug.Log(eventData.pointerDrag.name +"asetati" + gameObject.name);
+        Debug.Log(eventData.pointerDrag.name + "asetati" + gameObject.name);
 
         Draggable d = eventData.pointerDrag.GetComponent<Draggable>();
         if (d != null)
         {
             d.parentToReturnTo = this.transform;
             InTheBox = true;
-           
+
         }
 
 
-        
+
     }
 
-    
-   
+  
 }
