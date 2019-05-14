@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class OnCol : MonoBehaviour
 {
-   
+  
+    public Rigidbody2D UK, ESP, FIN, WordBox, SWE, EST, GER;
+
     void OnTriggerEnter2D(Collider2D col)
     {
         //GameObject WordBox = GameObject.FindGameObjectWithTag("WORD");
@@ -12,11 +14,17 @@ public class OnCol : MonoBehaviour
         {
             if (col.transform.gameObject.tag == "WORD")
             {
-                Debug.Log("tuli külla :"+gameObject.name);
+                Debug.Log("tuli külla :" + gameObject.name);
 
             }
         }
-        
-        
+
+
     }
+
+    public void checkCount ()
+        {
+
+
+        }
 }
