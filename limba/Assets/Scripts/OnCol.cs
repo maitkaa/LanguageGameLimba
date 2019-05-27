@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class OnCol : MonoBehaviour
 {
-  
-    public Rigidbody2D UK, ESP, FIN, WordBox, SWE, EST, GER;
-
     void OnTriggerEnter2D(Collider2D col)
     {
         //GameObject WordBox = GameObject.FindGameObjectWithTag("WORD");

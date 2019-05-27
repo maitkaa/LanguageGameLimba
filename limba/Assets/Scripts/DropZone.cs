@@ -7,7 +7,7 @@ public class DropZone : MonoBehaviour, IDropHandler
 
 
 {
-    public bool InTheBox = false;
+    
     public GameObject UK, ESP, FIN, WordBox, SWE, EST, GER;
     /*
     void OnTriggerEnter2D(Collider2D col)
@@ -30,7 +30,7 @@ public class DropZone : MonoBehaviour, IDropHandler
         if (d != null)
         {
             d.parentToReturnTo = this.transform;
-            InTheBox = true;
+           
 
         }
 

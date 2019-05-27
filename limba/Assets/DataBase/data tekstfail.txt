@@ -1,0 +1,2304 @@
+﻿{
+    "Sheet1": [
+        {
+            "kategooria nr": "1",
+            "Kategooria": "Kodu- ja taluloomad",
+            "word": "1",
+            "eesti keel": "Koer",
+            "inglise keel": "Dog",
+            "soome keel": "Koira",
+            "hispaania keel": "Perro",
+            "saksa keel": "der Hund",
+            "rootsi keel": "Hund"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Kass",
+            "inglise keel": "Cat",
+            "soome keel": "Kissa",
+            "hispaania keel": "Gato",
+            "saksa keel": "die Katze",
+            "rootsi keel": "Katt"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Merisiga",
+            "inglise keel": "Guinea pig",
+            "soome keel": "Marsu",
+            "hispaania keel": "Cobaya",
+            "saksa keel": "das Meerschweinchen",
+            "rootsi keel": "Masvin"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Hobune",
+            "inglise keel": "Horse",
+            "soome keel": "Hevonen",
+            "hispaania keel": "Caballo",
+            "saksa keel": "das Pferd",
+            "rootsi keel": "Häst"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Lehm",
+            "inglise keel": "Cow",
+            "soome keel": "Lehmä",
+            "hispaania keel": "Vaca",
+            "saksa keel": "die Kuh",
+            "rootsi keel": "Ko"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Siga",
+            "inglise keel": "Pig",
+            "soome keel": "Sika",
+            "hispaania keel": "Cerdo",
+            "saksa keel": "das Schwein",
+            "rootsi keel": "Svin"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Hamster",
+            "inglise keel": "Hamster",
+            "soome keel": "Hamsteri",
+            "hispaania keel": "Hámster",
+            "saksa keel": "der Hamster",
+            "rootsi keel": "Hamster"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Küülik",
+            "inglise keel": "Rabbit",
+            "soome keel": "Kaniini",
+            "hispaania keel": "Conejo",
+            "saksa keel": "das Kaninchen",
+            "rootsi keel": "Kanin"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Rott",
+            "inglise keel": "Rat",
+            "soome keel": "Rotta",
+            "hispaania keel": "Rata",
+            "saksa keel": "die Ratte",
+            "rootsi keel": "Ratta"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Kuldkala",
+            "inglise keel": "Goldfish",
+            "soome keel": "Kultakala",
+            "hispaania keel": "Pez de colores",
+            "saksa keel": "der Goldfisch",
+            "rootsi keel": "Guldfish"
+        },
+        {
+            "kategooria nr": "2",
+            "Kategooria": "Metsloomad",
+            "word": "1",
+            "eesti keel": "Hunt",
+            "inglise keel": "Wolf",
+            "soome keel": "Susi",
+            "hispaania keel": "Lobo",
+            "saksa keel": "der Wolf",
+            "rootsi keel": "Varg"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Rebane",
+            "inglise keel": "Fox",
+            "soome keel": "Kettu",
+            "hispaania keel": "Zorro",
+            "saksa keel": "der Fuchs",
+            "rootsi keel": "Räv"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Karu",
+            "inglise keel": "Bear",
+            "soome keel": "Karhu",
+            "hispaania keel": "Oso",
+            "saksa keel": "der Bär",
+            "rootsi keel": "Björn"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Põder",
+            "inglise keel": "Elk",
+            "soome keel": "Hirvi",
+            "hispaania keel": "Alce",
+            "saksa keel": "der Elch",
+            "rootsi keel": "Älg"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Siil",
+            "inglise keel": "Hedgehog",
+            "soome keel": "Siili",
+            "hispaania keel": "Erizo",
+            "saksa keel": "der Igel",
+            "rootsi keel": "Igelkott"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Metssiga",
+            "inglise keel": "Boar",
+            "soome keel": "Villisika",
+            "hispaania keel": "Jabalí",
+            "saksa keel": "das Wildschwein",
+            "rootsi keel": "Vildsvin"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Metskits",
+            "inglise keel": "Roe",
+            "soome keel": "Metsäkauris",
+            "hispaania keel": "Corzo",
+            "saksa keel": "das Reh",
+            "rootsi keel": "Rädjur"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Ilves",
+            "inglise keel": "Lynx",
+            "soome keel": "Ilves",
+            "hispaania keel": "Lince",
+            "saksa keel": "der Luchs",
+            "rootsi keel": "Lodjur"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Kährik",
+            "inglise keel": "Raccoon dog",
+            "soome keel": "Supikoira",
+            "hispaania keel": "Perro mapache",
+            "saksa keel": "der Marderhund",
+            "rootsi keel": "Mårdhund"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Mäger",
+            "inglise keel": "Badger",
+            "soome keel": "Mäyrä",
+            "hispaania keel": "Tejón",
+            "saksa keel": "der Dachs",
+            "rootsi keel": "Grävling"
+        },
+        {
+            "kategooria nr": "3",
+            "Kategooria": "Puuviljad ja marjad",
+            "word": "1",
+            "eesti keel": "Ploom",
+            "inglise keel": "Plum",
+            "soome keel": "Luumu",
+            "hispaania keel": "Ciruela",
+            "saksa keel": "die Pflaume",
+            "rootsi keel": "Plommon"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Apelsin",
+            "inglise keel": "Orange",
+            "soome keel": "Appelsiini",
+            "hispaania keel": "Naranja",
+            "saksa keel": "die Orange",
+            "rootsi keel": "Apelsin"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Õun",
+            "inglise keel": "Apple",
+            "soome keel": "Omena",
+            "hispaania keel": "Manzana",
+            "saksa keel": "der Apfel",
+            "rootsi keel": "Äpple"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Kiivi",
+            "inglise keel": "Kiwi",
+            "soome keel": "Kiivi",
+            "hispaania keel": "Kiwi",
+            "saksa keel": "die Kiwi",
+            "rootsi keel": "Kiwi"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Granaatõun",
+            "inglise keel": "Pomegranate",
+            "soome keel": "Granaattiomena",
+            "hispaania keel": "Granada",
+            "saksa keel": "der Granatapfel",
+            "rootsi keel": "Granatäpple"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Vaarikas",
+            "inglise keel": "Raspberry",
+            "soome keel": "Vadelma",
+            "hispaania keel": "Frambuesa",
+            "saksa keel": "die Himbeere",
+            "rootsi keel": "Hallon"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Banaan",
+            "inglise keel": "Banana",
+            "soome keel": "Banaani",
+            "hispaania keel": "Banana",
+            "saksa keel": "die Banane",
+            "rootsi keel": "Banan"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Pirn",
+            "inglise keel": "Pear",
+            "soome keel": "Päärynä",
+            "hispaania keel": "Pera",
+            "saksa keel": "die Birne",
+            "rootsi keel": "Päron"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Maasikas",
+            "inglise keel": "Strawberry",
+            "soome keel": "Mansikka",
+            "hispaania keel": "Fresa",
+            "saksa keel": "die Erdbeere",
+            "rootsi keel": "Jordgubbe"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Kirss",
+            "inglise keel": "Cherry",
+            "soome keel": "Kirsikka",
+            "hispaania keel": "Cereza",
+            "saksa keel": "die Kirsche",
+            "rootsi keel": "Körsbär"
+        },
+        {
+            "kategooria nr": "4",
+            "Kategooria": "Köögiviljad",
+            "word": "1",
+            "eesti keel": "Porgand",
+            "inglise keel": "Carrot",
+            "soome keel": "Porkkana",
+            "hispaania keel": "Zanahoria",
+            "saksa keel": "die Möhre",
+            "rootsi keel": "Morot"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Kaalikas",
+            "inglise keel": "Swede",
+            "soome keel": "Lanttu",
+            "hispaania keel": "Naba",
+            "saksa keel": "die Kohlrübe",
+            "rootsi keel": "Kälrot"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Kartul",
+            "inglise keel": "Potato",
+            "soome keel": "Peruna",
+            "hispaania keel": "Patata",
+            "saksa keel": "die Kartoffel",
+            "rootsi keel": "Potatis"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Kurk",
+            "inglise keel": "Cucumber",
+            "soome keel": "Kurkku",
+            "hispaania keel": "Pepino",
+            "saksa keel": "die Gurke",
+            "rootsi keel": "Gurka"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Redis",
+            "inglise keel": "Radish",
+            "soome keel": "Retiisi",
+            "hispaania keel": "Rábano",
+            "saksa keel": "das Radieschen",
+            "rootsi keel": "Rädisa"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Kõrvits",
+            "inglise keel": "Pumpkin",
+            "soome keel": "Kurpitsa",
+            "hispaania keel": "Calabaza",
+            "saksa keel": "der Kürbis",
+            "rootsi keel": "Pumpa"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Tomat",
+            "inglise keel": "Tomato",
+            "soome keel": "Tomaatti",
+            "hispaania keel": "Tomate",
+            "saksa keel": "die Tomate",
+            "rootsi keel": "Tomat"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Paprika",
+            "inglise keel": "Bell pepper",
+            "soome keel": "Paprika",
+            "hispaania keel": "Pimiento",
+            "saksa keel": "der Paprika",
+            "rootsi keel": "Paprika"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Sibul",
+            "inglise keel": "Onion",
+            "soome keel": "Sipuli",
+            "hispaania keel": "Cebolla",
+            "saksa keel": "die Zwiebel",
+            "rootsi keel": "Lök"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Küüslauk",
+            "inglise keel": "Garlic",
+            "soome keel": "Kynsilaukka",
+            "hispaania keel": "Ajo",
+            "saksa keel": "der Knoblauch",
+            "rootsi keel": "Vitlök"
+        },
+        {
+            "kategooria nr": "5",
+            "Kategooria": "Sõiduriistad",
+            "word": "1",
+            "eesti keel": "Auto",
+            "inglise keel": "Car",
+            "soome keel": "Auto",
+            "hispaania keel": "Coche",
+            "saksa keel": "der Wagen",
+            "rootsi keel": "Bil"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Buss",
+            "inglise keel": "Bus",
+            "soome keel": "Bussi",
+            "hispaania keel": "Autobús",
+            "saksa keel": "der Bus",
+            "rootsi keel": "Buss"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Rong",
+            "inglise keel": "Train",
+            "soome keel": "Juna",
+            "hispaania keel": "Tren",
+            "saksa keel": "der Zug",
+            "rootsi keel": "Täg"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Jalgratas",
+            "inglise keel": "Bicycle",
+            "soome keel": "Polkupyörä",
+            "hispaania keel": "Bicicleta",
+            "saksa keel": "das Fahrrad",
+            "rootsi keel": "Cykel"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Mootorratas",
+            "inglise keel": "Motorbike",
+            "soome keel": "Moottoripyörä",
+            "hispaania keel": "Motocicleta",
+            "saksa keel": "das Motorrad",
+            "rootsi keel": "Motorcykel"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Lennuk",
+            "inglise keel": "Plane",
+            "soome keel": "Lentokone",
+            "hispaania keel": "Avión",
+            "saksa keel": "das Flugzeug",
+            "rootsi keel": "Flygplan"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Helikopter",
+            "inglise keel": "Helicopter",
+            "soome keel": "Helikopteri",
+            "hispaania keel": "Helicóptero",
+            "saksa keel": "der Hubschrauber",
+            "rootsi keel": "Helikopter"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Laev",
+            "inglise keel": "Ship",
+            "soome keel": "Laiva",
+            "hispaania keel": "Barco",
+            "saksa keel": "das Schiff",
+            "rootsi keel": "Bat"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Trollibuss",
+            "inglise keel": "Trolleybus",
+            "soome keel": "Johdinauto",
+            "hispaania keel": "Trolebús",
+            "saksa keel": "der Obus",
+            "rootsi keel": "Tradbuss"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Tramm",
+            "inglise keel": "Tram",
+            "soome keel": "Raitiovaunu",
+            "hispaania keel": "Tranvía",
+            "saksa keel": "die Straßenbahn",
+            "rootsi keel": "Sparvagn"
+        },
+        {
+            "kategooria nr": "6",
+            "Kategooria": "Riideesemed",
+            "word": "1",
+            "eesti keel": "Jope",
+            "inglise keel": "Jacket",
+            "soome keel": "Pomppa",
+            "hispaania keel": "Chaqueta",
+            "saksa keel": "die Joppe",
+            "rootsi keel": "Jacka"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Püksid",
+            "inglise keel": "Pants",
+            "soome keel": "Housut",
+            "hispaania keel": "Pantalón",
+            "saksa keel": "die Hose",
+            "rootsi keel": "Byxor"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Särk",
+            "inglise keel": "Shirt",
+            "soome keel": "Paita",
+            "hispaania keel": "Camisa",
+            "saksa keel": "das Hemd",
+            "rootsi keel": "Skjorta"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Mantel",
+            "inglise keel": "Coat",
+            "soome keel": "Mantteli",
+            "hispaania keel": "Abrigo",
+            "saksa keel": "der Mantel",
+            "rootsi keel": "Kappa"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Müts",
+            "inglise keel": "Hat",
+            "soome keel": "Lakki",
+            "hispaania keel": "Gorro",
+            "saksa keel": "die Mütze",
+            "rootsi keel": "Mössa"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Kingad",
+            "inglise keel": "Shoes",
+            "soome keel": "Kengät",
+            "hispaania keel": "Zapatos",
+            "saksa keel": "die Schuhe",
+            "rootsi keel": "Skor"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Sokid",
+            "inglise keel": "Socks",
+            "soome keel": "Sukat",
+            "hispaania keel": "Calcetines",
+            "saksa keel": "die Socken",
+            "rootsi keel": "Strumpor"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Aluspüksid",
+            "inglise keel": "Underwear",
+            "soome keel": "Alushousut",
+            "hispaania keel": "Calzoncillos",
+            "saksa keel": "die Unterhose",
+            "rootsi keel": "Kalsonger"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Kleit",
+            "inglise keel": "Dress",
+            "soome keel": "Puku",
+            "hispaania keel": "Vestido",
+            "saksa keel": "das Kleid",
+            "rootsi keel": "Klänning"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Seelik",
+            "inglise keel": "Skirt",
+            "soome keel": "Hame",
+            "hispaania keel": "Falda",
+            "saksa keel": "der Frauenrock",
+            "rootsi keel": "Kjol"
+        },
+        {
+            "kategooria nr": "7",
+            "Kategooria": "Kehaosad",
+            "word": "1",
+            "eesti keel": "Pea",
+            "inglise keel": "Head",
+            "soome keel": "Pää",
+            "hispaania keel": "Cabeza",
+            "saksa keel": "der Kopf",
+            "rootsi keel": "Huvud"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Käsi",
+            "inglise keel": "Hand",
+            "soome keel": "Käsi",
+            "hispaania keel": "Mano",
+            "saksa keel": "die Hand",
+            "rootsi keel": "Hand"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Kael",
+            "inglise keel": "Neck",
+            "soome keel": "Kaula",
+            "hispaania keel": "Cuello",
+            "saksa keel": "der Hals",
+            "rootsi keel": "Hals"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Jalg",
+            "inglise keel": "Foot",
+            "soome keel": "Jalka",
+            "hispaania keel": "Pie",
+            "saksa keel": "der Fuß",
+            "rootsi keel": "Fot"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Kõht",
+            "inglise keel": "Belly",
+            "soome keel": "Vatsa",
+            "hispaania keel": "Vientre",
+            "saksa keel": "der Bauch",
+            "rootsi keel": "Mage"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Selg",
+            "inglise keel": "Back",
+            "soome keel": "Selkä",
+            "hispaania keel": "Espalda",
+            "saksa keel": "der Rücken",
+            "rootsi keel": "Rygg"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Silm",
+            "inglise keel": "Eye",
+            "soome keel": "Silmä",
+            "hispaania keel": "Ojo",
+            "saksa keel": "das Auge",
+            "rootsi keel": "Öga"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Varvas",
+            "inglise keel": "Toe",
+            "soome keel": "Varvas",
+            "hispaania keel": "Dedo del pie",
+            "saksa keel": "die Zehe/der Zeh",
+            "rootsi keel": "Ta"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Nina",
+            "inglise keel": "Nose",
+            "soome keel": "Nenä",
+            "hispaania keel": "Nariz",
+            "saksa keel": "die Nase",
+            "rootsi keel": "Näsa"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Kõrv",
+            "inglise keel": "Ear",
+            "soome keel": "Korva",
+            "hispaania keel": "Oído",
+            "saksa keel": "das Ohr",
+            "rootsi keel": "Öra"
+        },
+        {
+            "kategooria nr": "8",
+            "Kategooria": "Mööbliesemed",
+            "word": "1",
+            "eesti keel": "Tool",
+            "inglise keel": "Chair",
+            "soome keel": "Tuoli",
+            "hispaania keel": "Silla",
+            "saksa keel": "der Stuhl",
+            "rootsi keel": "Stol"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Kapp",
+            "inglise keel": "Closet",
+            "soome keel": "Kaappi",
+            "hispaania keel": "Armario",
+            "saksa keel": "der Schrank",
+            "rootsi keel": "Skap"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Voodi",
+            "inglise keel": "Bed",
+            "soome keel": "Sänky",
+            "hispaania keel": "Cama",
+            "saksa keel": "das Bett",
+            "rootsi keel": "Säng"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Laud",
+            "inglise keel": "Table",
+            "soome keel": "Pöytä",
+            "hispaania keel": "Mesa",
+            "saksa keel": "der Tisch",
+            "rootsi keel": "Bord"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Riiul",
+            "inglise keel": "Shelf",
+            "soome keel": "Hylly",
+            "hispaania keel": "Estante",
+            "saksa keel": "das Regal",
+            "rootsi keel": "Hylla"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Kirjutuslaud",
+            "inglise keel": "Desk",
+            "soome keel": "Kirjoituspöytä",
+            "hispaania keel": "Escritorio",
+            "saksa keel": "der Schreibtisch",
+            "rootsi keel": "Skrivbord"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Lamp",
+            "inglise keel": "Lamp",
+            "soome keel": "Lamppu",
+            "hispaania keel": "Lámpara",
+            "saksa keel": "die Lampe",
+            "rootsi keel": "Lampa"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Vaip",
+            "inglise keel": "Carpet",
+            "soome keel": "Matto",
+            "hispaania keel": "Alfombra",
+            "saksa keel": "der Teppich",
+            "rootsi keel": "Matta"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Diivan",
+            "inglise keel": "Couch",
+            "soome keel": "Sohva",
+            "hispaania keel": "Sofá",
+            "saksa keel": "der Diwan",
+            "rootsi keel": "Soffa"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Tugitool",
+            "inglise keel": "Armchair",
+            "soome keel": "Lepotuoli",
+            "hispaania keel": "Sillón",
+            "saksa keel": "der Lehnstuhl",
+            "rootsi keel": "Fatölj"
+        },
+        {
+            "kategooria nr": "9",
+            "Kategooria": "Värvid",
+            "word": "1",
+            "eesti keel": "Sinine",
+            "inglise keel": "Blue",
+            "soome keel": "Sininen",
+            "hispaania keel": "Azul",
+            "saksa keel": "Blau",
+            "rootsi keel": "Bla"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Must",
+            "inglise keel": "Black",
+            "soome keel": "Musta",
+            "hispaania keel": "Negro",
+            "saksa keel": "Schwarz",
+            "rootsi keel": "Svart"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Punane",
+            "inglise keel": "Red",
+            "soome keel": "Punainen",
+            "hispaania keel": "Rojo",
+            "saksa keel": "Rot",
+            "rootsi keel": "Röd"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Kollane",
+            "inglise keel": "Yellow",
+            "soome keel": "Keltainen",
+            "hispaania keel": "Amarillo",
+            "saksa keel": "Gelb",
+            "rootsi keel": "Gul"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Roheline",
+            "inglise keel": "Green",
+            "soome keel": "Vihreä",
+            "hispaania keel": "Verde",
+            "saksa keel": "Grün",
+            "rootsi keel": "Grön"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Roosa",
+            "inglise keel": "Pink",
+            "soome keel": "Vaaleanpunainen",
+            "hispaania keel": "Rosa",
+            "saksa keel": "Rosa",
+            "rootsi keel": "Rosa"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Valge",
+            "inglise keel": "White",
+            "soome keel": "Valkoinen",
+            "hispaania keel": "Blanco",
+            "saksa keel": "Weiß",
+            "rootsi keel": "Vit"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Hall",
+            "inglise keel": "Grey",
+            "soome keel": "Harmaa",
+            "hispaania keel": "Gris",
+            "saksa keel": "Grau",
+            "rootsi keel": "Gra"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Lilla",
+            "inglise keel": "Purple",
+            "soome keel": "Sinipunainen",
+            "hispaania keel": "Morado",
+            "saksa keel": "Lila",
+            "rootsi keel": "Lila"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Pruun",
+            "inglise keel": "Brown",
+            "soome keel": "Ruskea",
+            "hispaania keel": "Marrón",
+            "saksa keel": "Braun",
+            "rootsi keel": "Brun"
+        },
+        {
+            "kategooria nr": "10",
+            "Kategooria": "Emotsioonid",
+            "word": "1",
+            "eesti keel": "Rõõm",
+            "inglise keel": "Happiness",
+            "soome keel": "Riemu",
+            "hispaania keel": "Alegría",
+            "saksa keel": "die Freude",
+            "rootsi keel": "Glädgje"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Kurbus",
+            "inglise keel": "Sadness",
+            "soome keel": "Surullisuus",
+            "hispaania keel": "Tristeza",
+            "saksa keel": "die Traurigkeit",
+            "rootsi keel": "Vemod"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Kadedus",
+            "inglise keel": "Envy",
+            "soome keel": "Kateus",
+            "hispaania keel": "Envidia",
+            "saksa keel": "der Neid",
+            "rootsi keel": "Avundsjuka"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Igavus",
+            "inglise keel": "Boredom",
+            "soome keel": "Ikävyys",
+            "hispaania keel": "Aburrimiento",
+            "saksa keel": "die Langeweile",
+            "rootsi keel": "Tristess"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Sõbralikkus",
+            "inglise keel": "Friendliness",
+            "soome keel": "Ystävällisyys",
+            "hispaania keel": "Amigabilidad",
+            "saksa keel": "die Freundlichkeit",
+            "rootsi keel": "Vänlighet"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Laiskus",
+            "inglise keel": "Laziness",
+            "soome keel": "Laiskuus",
+            "hispaania keel": "Pereza",
+            "saksa keel": "die Faulheit",
+            "rootsi keel": "Lättja"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Uhkus",
+            "inglise keel": "Pride",
+            "soome keel": "Ylpeys",
+            "hispaania keel": "Orgullo",
+            "saksa keel": "der Stolz",
+            "rootsi keel": "Stolthet"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Häbi",
+            "inglise keel": "Shame",
+            "soome keel": "Häpeä",
+            "hispaania keel": "Vergüenza",
+            "saksa keel": "die Schande",
+            "rootsi keel": "Skam"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Hirm",
+            "inglise keel": "Fear",
+            "soome keel": "Kauhu",
+            "hispaania keel": "Miedo",
+            "saksa keel": "die Angst",
+            "rootsi keel": "Fruktan"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Viha",
+            "inglise keel": "Anger",
+            "soome keel": "Viha",
+            "hispaania keel": "Furia",
+            "saksa keel": "der Zorn",
+            "rootsi keel": "Vrede"
+        },
+        {
+            "kategooria nr": "11",
+            "Kategooria": "Tööriistad",
+            "word": "1",
+            "eesti keel": "Kruvikeeraja",
+            "inglise keel": "Screwdriver",
+            "soome keel": "Ruuvitaltta",
+            "hispaania keel": "Destorrnillador",
+            "saksa keel": "der Schraubenzieher",
+            "rootsi keel": "Skruvsir"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Haamer",
+            "inglise keel": "Hammer",
+            "soome keel": "Vasara",
+            "hispaania keel": "Martillo",
+            "saksa keel": "der Hammer",
+            "rootsi keel": "Hammare"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Kirves",
+            "inglise keel": "Axe",
+            "soome keel": "Kirves",
+            "hispaania keel": "Hacha",
+            "saksa keel": "die Axt",
+            "rootsi keel": "Yxa"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Mutrivõti",
+            "inglise keel": "Wrench",
+            "soome keel": "Mutteriavain",
+            "hispaania keel": "Llave",
+            "saksa keel": "der Mutternschlüssel",
+            "rootsi keel": "Skruvnyckel"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Saag",
+            "inglise keel": "Saw",
+            "soome keel": "Saha",
+            "hispaania keel": "Sierra",
+            "saksa keel": "die Säge",
+            "rootsi keel": "Såg"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Kruustangid",
+            "inglise keel": "Vise",
+            "soome keel": "Ruuvipenkki",
+            "hispaania keel": "Tornillo",
+            "saksa keel": "der Schraubstock",
+            "rootsi keel": "Skruvstäd"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Käärid",
+            "inglise keel": "Scissors",
+            "soome keel": "Sakset",
+            "hispaania keel": "Tijeras",
+            "saksa keel": "die Schere",
+            "rootsi keel": "Sax"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Viil",
+            "inglise keel": "File",
+            "soome keel": "Viila",
+            "hispaania keel": "Lima",
+            "saksa keel": "die Feile",
+            "rootsi keel": "Fil"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Peitel",
+            "inglise keel": "Chisel",
+            "soome keel": "Taltta",
+            "hispaania keel": "Formón",
+            "saksa keel": "der Beitel",
+            "rootsi keel": "Stämjärn"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Akutrell",
+            "inglise keel": "Cordless drill",
+            "soome keel": "Akkuporakone",
+            "hispaania keel": "Taladro de mano",
+            "saksa keel": "der Akkubohrer",
+            "rootsi keel": "Borrskruvdragare"
+        },
+        {
+            "kategooria nr": "12",
+            "Kategooria": "Puud",
+            "word": "1",
+            "eesti keel": "Kuusk",
+            "inglise keel": "Spruce",
+            "soome keel": "Kuusi",
+            "hispaania keel": "Picea",
+            "saksa keel": "die Fichte",
+            "rootsi keel": "Gran"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Tamm",
+            "inglise keel": "Oak",
+            "soome keel": "Tammi",
+            "hispaania keel": "Roble",
+            "saksa keel": "die Eiche",
+            "rootsi keel": "Ek"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Vaher",
+            "inglise keel": "Maple",
+            "soome keel": "Vaahtera",
+            "hispaania keel": "Arce",
+            "saksa keel": "der Ahorn",
+            "rootsi keel": "Lönn"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Kask",
+            "inglise keel": "Birch",
+            "soome keel": "Koivu",
+            "hispaania keel": "Abedul",
+            "saksa keel": "die Birke",
+            "rootsi keel": "Björk"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Õunapuu",
+            "inglise keel": "Apple tree",
+            "soome keel": "Omenapuu",
+            "hispaania keel": "Manzano",
+            "saksa keel": "der Apfelbaum",
+            "rootsi keel": "Äppelträd"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Palm",
+            "inglise keel": "Palm",
+            "soome keel": "Palmu",
+            "hispaania keel": "Palma",
+            "saksa keel": "die Palme",
+            "rootsi keel": "Palm"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Mänd",
+            "inglise keel": "Pine",
+            "soome keel": "Mänty",
+            "hispaania keel": "Pino",
+            "saksa keel": "die Kiefer",
+            "rootsi keel": "Tall"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Pirnipuu",
+            "inglise keel": "Pear tree",
+            "soome keel": "Päärynäpuu",
+            "hispaania keel": "Peral",
+            "saksa keel": "der Birnbaum",
+            "rootsi keel": "Päronträd"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Kastanipuu",
+            "inglise keel": "Chestnut",
+            "soome keel": "Kastanja",
+            "hispaania keel": "Castaño",
+            "saksa keel": "der Kastanienbaum",
+            "rootsi keel": "Kastanjeträd"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Pihlakas",
+            "inglise keel": "Sorbus",
+            "soome keel": "Pihlaja",
+            "hispaania keel": "Serbal",
+            "saksa keel": "die Eberesche",
+            "rootsi keel": "Rönn"
+        },
+        {
+            "kategooria nr": "13",
+            "Kategooria": "Muusikariistad",
+            "word": "1",
+            "eesti keel": "Klaver",
+            "inglise keel": "Piano",
+            "soome keel": "Piano",
+            "hispaania keel": "Piano",
+            "saksa keel": "das Klavier",
+            "rootsi keel": "Piano"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Viiul",
+            "inglise keel": "Violin",
+            "soome keel": "Viulu",
+            "hispaania keel": "Violín",
+            "saksa keel": "die Geige",
+            "rootsi keel": "Fiol"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Trompet",
+            "inglise keel": "Trumpet",
+            "soome keel": "Trumpetti",
+            "hispaania keel": "Trompeta",
+            "saksa keel": "die Trompete",
+            "rootsi keel": "Trumpet"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Saksofon",
+            "inglise keel": "Saxophone",
+            "soome keel": "Saksofoni",
+            "hispaania keel": "Saxofón",
+            "saksa keel": "das Saxophon",
+            "rootsi keel": "Saxofon"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Kitarr",
+            "inglise keel": "Guitar",
+            "soome keel": "Kitara",
+            "hispaania keel": "Guitarra",
+            "saksa keel": "die Gitarre",
+            "rootsi keel": "Gitarr"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Akordion",
+            "inglise keel": "Accordion",
+            "soome keel": "Harmonikka",
+            "hispaania keel": "Acordeón",
+            "saksa keel": "das Akkordeon",
+            "rootsi keel": "Dragspel"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Ksülofon",
+            "inglise keel": "Xylophone",
+            "soome keel": "Ksylofoni",
+            "hispaania keel": "Xilófono",
+            "saksa keel": "das Xylophon",
+            "rootsi keel": "Xylofon"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Trumm",
+            "inglise keel": "Drum",
+            "soome keel": "Rumpu",
+            "hispaania keel": "Tambor",
+            "saksa keel": "die Trommel",
+            "rootsi keel": "Trumma"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Flööt",
+            "inglise keel": "Flute",
+            "soome keel": "Huilu",
+            "hispaania keel": "Flauta",
+            "saksa keel": "die Flöte",
+            "rootsi keel": "Flöjt"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Tuuba",
+            "inglise keel": "Tuba",
+            "soome keel": "Tuuba",
+            "hispaania keel": "Tuba",
+            "saksa keel": "die Tuba",
+            "rootsi keel": "Tuba"
+        },
+        {
+            "kategooria nr": "14",
+            "Kategooria": "Elektroonika",
+            "word": "1",
+            "eesti keel": "Pesumasin",
+            "inglise keel": "Washing machine",
+            "soome keel": "Pesukone",
+            "hispaania keel": "Lavadora",
+            "saksa keel": "die Waschmaschine",
+            "rootsi keel": "Tvättmaskin"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Tolmuimeja",
+            "inglise keel": "Vacuum cleaner",
+            "soome keel": "Pölynimuri",
+            "hispaania keel": "Aspirador",
+            "saksa keel": "der Staubsauger",
+            "rootsi keel": "Dammsugare"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Mikser",
+            "inglise keel": "Mixer",
+            "soome keel": "Mikseri",
+            "hispaania keel": "Batidora",
+            "saksa keel": "der Mixer",
+            "rootsi keel": "Mixer"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Nõudepesumasin",
+            "inglise keel": "Dishwasher",
+            "soome keel": "Astiainpesukone",
+            "hispaania keel": "Lavavajillas",
+            "saksa keel": "die Spülmaschine",
+            "rootsi keel": "Diskmaskin"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Arvuti",
+            "inglise keel": "Computer",
+            "soome keel": "Tietokone",
+            "hispaania keel": "Computadora",
+            "saksa keel": "der Computer",
+            "rootsi keel": "Dator"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Televiisor",
+            "inglise keel": "Television",
+            "soome keel": "Televisio",
+            "hispaania keel": "Televisor",
+            "saksa keel": "der Fernseher",
+            "rootsi keel": "TV-apparat"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Triikraud",
+            "inglise keel": "Iron",
+            "soome keel": "Silitysrauta",
+            "hispaania keel": "Plancha",
+            "saksa keel": "das Bügeleisen",
+            "rootsi keel": "Strykjärn"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Külmik",
+            "inglise keel": "Refrigerator",
+            "soome keel": "Kylmäkaappi",
+            "hispaania keel": "Nevera",
+            "saksa keel": "der Kühlschrank",
+            "rootsi keel": "Kylskåp"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Pliit",
+            "inglise keel": "Stove",
+            "soome keel": "Liesi",
+            "hispaania keel": "Estufa",
+            "saksa keel": "der Herd",
+            "rootsi keel": "Spis"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Äratuskell",
+            "inglise keel": "Alarm clock",
+            "soome keel": "Herätyskello",
+            "hispaania keel": "Despertador",
+            "saksa keel": "der Wecker",
+            "rootsi keel": "Väckarklocka"
+        },
+        {
+            "kategooria nr": "15",
+            "Kategooria": "Pereliikmed",
+            "word": "1",
+            "eesti keel": "Ema",
+            "inglise keel": "Mother",
+            "soome keel": "Äiti",
+            "hispaania keel": "Madre",
+            "saksa keel": "die Mutter",
+            "rootsi keel": "Mor"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Isa",
+            "inglise keel": "Father",
+            "soome keel": "Isä",
+            "hispaania keel": "Padre",
+            "saksa keel": "der Vater",
+            "rootsi keel": "Far"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Õde",
+            "inglise keel": "Sister",
+            "soome keel": "Sisar",
+            "hispaania keel": "Hermana",
+            "saksa keel": "die Schwester",
+            "rootsi keel": "Syster"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Vend",
+            "inglise keel": "Brother",
+            "soome keel": "Veli",
+            "hispaania keel": "Hermano",
+            "saksa keel": "der Bruder",
+            "rootsi keel": "Bror"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Ämm",
+            "inglise keel": "Mother-in-law",
+            "soome keel": "Anoppi",
+            "hispaania keel": "Suegra",
+            "saksa keel": "die Schwiegermutter",
+            "rootsi keel": "Svärmor"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Vanaisa",
+            "inglise keel": "Grandfather",
+            "soome keel": "Vaari",
+            "hispaania keel": "Abuelo",
+            "saksa keel": "der Opa",
+            "rootsi keel": "Morfar / Farfar"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Vanaema",
+            "inglise keel": "Grandmother",
+            "soome keel": "Mummo",
+            "hispaania keel": "Abuela",
+            "saksa keel": "die Oma",
+            "rootsi keel": "Mormor / Farmor"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Onu",
+            "inglise keel": "Uncle",
+            "soome keel": "Setä",
+            "hispaania keel": "Tío",
+            "saksa keel": "der Onkel",
+            "rootsi keel": "Morbror /Farbror"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Äi",
+            "inglise keel": "Father-in-law",
+            "soome keel": "Appi",
+            "hispaania keel": "Suegro",
+            "saksa keel": "der Schwiegervater",
+            "rootsi keel": "Svärfader"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Tädi",
+            "inglise keel": "Aunt",
+            "soome keel": "Täti",
+            "hispaania keel": "Tía",
+            "saksa keel": "die Tante",
+            "rootsi keel": "Tant / Moster"
+        },
+        {
+            "kategooria nr": "16",
+            "Kategooria": "Riigid",
+            "word": "1",
+            "eesti keel": "Eesti",
+            "inglise keel": "Estonia",
+            "soome keel": "Viro",
+            "hispaania keel": "Estonia",
+            "saksa keel": "(das) Estland",
+            "rootsi keel": "Estland"
+        },
+        {
+            "word": "2",
+            "eesti keel": "India",
+            "inglise keel": "India",
+            "soome keel": "Intia",
+            "hispaania keel": "India",
+            "saksa keel": "(das) Indien",
+            "rootsi keel": "Indien"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Soome",
+            "inglise keel": "Finland",
+            "soome keel": "Suomi",
+            "hispaania keel": "Finlandia",
+            "saksa keel": "(das) Finland",
+            "rootsi keel": "Finland"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Hispaania",
+            "inglise keel": "Spain",
+            "soome keel": "Espanja",
+            "hispaania keel": "España",
+            "saksa keel": "(das) Spanien",
+            "rootsi keel": "Spanien"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Rootsi",
+            "inglise keel": "Sweden",
+            "soome keel": "Ruotsi",
+            "hispaania keel": "Suecia",
+            "saksa keel": "(das) Schweden",
+            "rootsi keel": "Sverige"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Saksamaa",
+            "inglise keel": "Germany",
+            "soome keel": "Saksa",
+            "hispaania keel": "Alemania",
+            "saksa keel": "(das) Deutschland",
+            "rootsi keel": "Tyskland"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Venemaa",
+            "inglise keel": "Russia",
+            "soome keel": "Venäjä",
+            "hispaania keel": "Rusia",
+            "saksa keel": "(das) Russland",
+            "rootsi keel": "Ryssland"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Poola",
+            "inglise keel": "Poland",
+            "soome keel": "Puola",
+            "hispaania keel": "Polonia",
+            "saksa keel": "(das) Polen",
+            "rootsi keel": "Polen"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Inglismaa",
+            "inglise keel": "England",
+            "soome keel": "Englanti",
+            "hispaania keel": "Inglaterra",
+            "saksa keel": "(das) England",
+            "rootsi keel": "England"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Brasiilia",
+            "inglise keel": "Brazil",
+            "soome keel": "Brasilia",
+            "hispaania keel": "Brasil",
+            "saksa keel": "(das) Brasilien",
+            "rootsi keel": "Brasilien"
+        },
+        {
+            "kategooria nr": "17",
+            "Kategooria": "Kööginõud",
+            "word": "1",
+            "eesti keel": "Lusikas",
+            "inglise keel": "Spoon",
+            "soome keel": "Lusikka",
+            "hispaania keel": "Cuchara",
+            "saksa keel": "der Löffel",
+            "rootsi keel": "Sked"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Kahvel",
+            "inglise keel": "Fork",
+            "soome keel": "Haarukka",
+            "hispaania keel": "Tenedor",
+            "saksa keel": "die Gabel",
+            "rootsi keel": "Gaffel"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Nuga",
+            "inglise keel": "Knife",
+            "soome keel": "Veitsi",
+            "hispaania keel": "Cuchillo",
+            "saksa keel": "das Messer",
+            "rootsi keel": "Kniv"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Pott",
+            "inglise keel": "Pot",
+            "soome keel": "Pata",
+            "hispaania keel": "Olla",
+            "saksa keel": "der Topf",
+            "rootsi keel": "Gryta"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Pann",
+            "inglise keel": "Pan",
+            "soome keel": "Pannu",
+            "hispaania keel": "Sartén",
+            "saksa keel": "die Pfanne",
+            "rootsi keel": "Panna"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Taldrik",
+            "inglise keel": "Plate",
+            "soome keel": "Lautanen",
+            "hispaania keel": "Plato",
+            "saksa keel": "der Teller",
+            "rootsi keel": "Tallrik"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Kauss",
+            "inglise keel": "Bowl",
+            "soome keel": "Kulho",
+            "hispaania keel": "Cuenco",
+            "saksa keel": "die Schüssel",
+            "rootsi keel": "Skål"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Klaas",
+            "inglise keel": "Glass",
+            "soome keel": "Lasi",
+            "hispaania keel": "Vaso",
+            "saksa keel": "das Glas",
+            "rootsi keel": "Glas"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Kann",
+            "inglise keel": "Pitcher",
+            "soome keel": "Kannu",
+            "hispaania keel": "Jarra",
+            "saksa keel": "die Karaffe",
+            "rootsi keel": "Karaff"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Kulp",
+            "inglise keel": "Ladle",
+            "soome keel": "Kauha",
+            "hispaania keel": "Cucharón",
+            "saksa keel": "die Schöpfkelle",
+            "rootsi keel": "Slev"
+        },
+        {
+            "kategooria nr": "18",
+            "Kategooria": "Kujundid",
+            "word": "1",
+            "eesti keel": "Ruut",
+            "inglise keel": "Square",
+            "soome keel": "Neliö",
+            "hispaania keel": "Cuadrado",
+            "saksa keel": "das Quadrat",
+            "rootsi keel": "Kvadrat"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Kolmnurk",
+            "inglise keel": "Triangle",
+            "soome keel": "Kolmio",
+            "hispaania keel": "Triángulo",
+            "saksa keel": "das Dreieck",
+            "rootsi keel": "Trehörning"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Ristkülik",
+            "inglise keel": "Rectangle",
+            "soome keel": "Suorakaide",
+            "hispaania keel": "Rectángulo",
+            "saksa keel": "das Rechteck",
+            "rootsi keel": "Rektangel"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Romb",
+            "inglise keel": "Rhombus",
+            "soome keel": "Vinoneliö",
+            "hispaania keel": "Rombo",
+            "saksa keel": "der Rhombus",
+            "rootsi keel": "Romb"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Ring",
+            "inglise keel": "Circle",
+            "soome keel": "Ympyrä",
+            "hispaania keel": "Circulo",
+            "saksa keel": "der Ring",
+            "rootsi keel": "Ring"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Viisnurk",
+            "inglise keel": "Pentagon",
+            "soome keel": "Viisikulmio",
+            "hispaania keel": "Pentágono",
+            "saksa keel": "das Fünfeck",
+            "rootsi keel": "Femhörning"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Prisma",
+            "inglise keel": "Prism",
+            "soome keel": "Prisma",
+            "hispaania keel": "Prisma",
+            "saksa keel": "das Prisma",
+            "rootsi keel": "Prisma"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Kera",
+            "inglise keel": "Sphere",
+            "soome keel": "Kerä",
+            "hispaania keel": "Esfera",
+            "saksa keel": "das Knäuel",
+            "rootsi keel": "Nystan"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Kuup",
+            "inglise keel": "Cube",
+            "soome keel": "Kuutio",
+            "hispaania keel": "Cubo",
+            "saksa keel": "der Kubus",
+            "rootsi keel": "Kub"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Püramiid",
+            "inglise keel": "Pyramid",
+            "soome keel": "Pyramidi",
+            "hispaania keel": "Pirámide",
+            "saksa keel": "die Pyramide",
+            "rootsi keel": "Pyramid"
+        },
+        {
+            "kategooria nr": "19",
+            "Kategooria": "Ilmastikunähtused",
+            "word": "1",
+            "eesti keel": "Vihm",
+            "inglise keel": "Rain",
+            "soome keel": "Sade",
+            "hispaania keel": "Lluvia",
+            "saksa keel": "der Regen",
+            "rootsi keel": "Regn"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Lumi",
+            "inglise keel": "Snow",
+            "soome keel": "Lumi",
+            "hispaania keel": "Nieve",
+            "saksa keel": "der Schnee",
+            "rootsi keel": "Snö"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Rahe",
+            "inglise keel": "Hail",
+            "soome keel": "Rae",
+            "hispaania keel": "Granizo",
+            "saksa keel": "der Hagel",
+            "rootsi keel": "Hagel"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Tuul",
+            "inglise keel": "Wind",
+            "soome keel": "Tuuli",
+            "hispaania keel": "Viento",
+            "saksa keel": "der Wind",
+            "rootsi keel": "Vind"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Päikesepaiste",
+            "inglise keel": "Sunshine",
+            "soome keel": "Auringonpaiste",
+            "hispaania keel": "Sol",
+            "saksa keel": "der Sonnenschein",
+            "rootsi keel": "Solsken"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Udu",
+            "inglise keel": "Fog",
+            "soome keel": "Sumu",
+            "hispaania keel": "Niebla",
+            "saksa keel": "der Nebel",
+            "rootsi keel": "Dimma"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Kaste",
+            "inglise keel": "Dew",
+            "soome keel": "Kaste",
+            "hispaania keel": "Rocío",
+            "saksa keel": "der Tau",
+            "rootsi keel": "Dagg"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Virmalised",
+            "inglise keel": "Northern lights",
+            "soome keel": "Revontulet",
+            "hispaania keel": "Aurora boreal",
+            "saksa keel": "das Nordlicht",
+            "rootsi keel": "Norrsken"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Äike",
+            "inglise keel": "Thunderstorm",
+            "soome keel": "Ukkonen",
+            "hispaania keel": "Trueno",
+            "saksa keel": "das Gewitter",
+            "rootsi keel": "Åska"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Torm",
+            "inglise keel": "Storm",
+            "soome keel": "Myrsky",
+            "hispaania keel": "Tormenta",
+            "saksa keel": "der Sturm",
+            "rootsi keel": "Storm"
+        },
+        {
+            "kategooria nr": "20",
+            "Kategooria": "Maitseained",
+            "word": "1",
+            "eesti keel": "Pune",
+            "inglise keel": "Oregano",
+            "soome keel": "Mäkimeirami",
+            "hispaania keel": "Orégano",
+            "saksa keel": "der Origano",
+            "rootsi keel": "Oregano"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Till",
+            "inglise keel": "Till",
+            "soome keel": "Tilli",
+            "hispaania keel": "Eneldo",
+            "saksa keel": "der Dill",
+            "rootsi keel": "Dill"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Petersell",
+            "inglise keel": "Parsley",
+            "soome keel": "Persilja",
+            "hispaania keel": "Perejil",
+            "saksa keel": "die Petersilie",
+            "rootsi keel": "Persilja"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Aniis",
+            "inglise keel": "Anise",
+            "soome keel": "Anis",
+            "hispaania keel": "Anís",
+            "saksa keel": "der Anis",
+            "rootsi keel": "Anis"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Tšillipipar",
+            "inglise keel": "Chili pepper",
+            "soome keel": "Chili",
+            "hispaania keel": "Chile",
+            "saksa keel": "der Chili",
+            "rootsi keel": "Chilipeppar"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Kaneel",
+            "inglise keel": "Cinnamon",
+            "soome keel": "Kaneli",
+            "hispaania keel": "Canelo",
+            "saksa keel": "der Zimt",
+            "rootsi keel": "Kanel"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Koriander",
+            "inglise keel": "Coriander",
+            "soome keel": "Korianteri",
+            "hispaania keel": "Cilantro",
+            "saksa keel": "der Koriander",
+            "rootsi keel": "Koriander"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Muskaatpähkel",
+            "inglise keel": "Nutmeg",
+            "soome keel": "Muskottipähkinä",
+            "hispaania keel": "Nuez moscada",
+            "saksa keel": "der Muskat",
+            "rootsi keel": "Muskotnöt"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Pipar",
+            "inglise keel": "Pepper",
+            "soome keel": "Pippuri",
+            "hispaania keel": "Pimienta",
+            "saksa keel": "der Pfeffer",
+            "rootsi keel": "Peppar"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Sool",
+            "inglise keel": "Salt",
+            "soome keel": "Suola",
+            "hispaania keel": "Sal",
+            "saksa keel": "das Salz",
+            "rootsi keel": "Salt"
+        },
+        {
+            "kategooria nr": "21",
+            "Kategooria": "Veekogud",
+            "word": "1",
+            "eesti keel": "Järv",
+            "inglise keel": "Lake",
+            "soome keel": "Järvi",
+            "hispaania keel": "Lago",
+            "saksa keel": "der See",
+            "rootsi keel": "Sjö"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Meri",
+            "inglise keel": "Sea",
+            "soome keel": "Meri",
+            "hispaania keel": "Mar",
+            "saksa keel": "das Meer",
+            "rootsi keel": "Hav"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Jõgi",
+            "inglise keel": "River",
+            "soome keel": "Joki",
+            "hispaania keel": "Río",
+            "saksa keel": "der Fluss",
+            "rootsi keel": "Flod"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Oja",
+            "inglise keel": "Creek",
+            "soome keel": "Puro",
+            "hispaania keel": "Arroyo",
+            "saksa keel": "der Bach",
+            "rootsi keel": "Bäck"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Allikas",
+            "inglise keel": "Spring",
+            "soome keel": "Lähde",
+            "hispaania keel": "Fuente",
+            "saksa keel": "die Quelle",
+            "rootsi keel": "Källa"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Ookean",
+            "inglise keel": "Ocean",
+            "soome keel": "Valtameri",
+            "hispaania keel": "Océano",
+            "saksa keel": "der Ozean",
+            "rootsi keel": "Ocean"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Väin",
+            "inglise keel": "Strait",
+            "soome keel": "Salmi",
+            "hispaania keel": "Estrecho",
+            "saksa keel": "die Meerenge",
+            "rootsi keel": "Sund"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Tiik",
+            "inglise keel": "Pond",
+            "soome keel": "Lammikko",
+            "hispaania keel": "Estanque",
+            "saksa keel": "der Teich",
+            "rootsi keel": "Damm"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Geiser",
+            "inglise keel": "Geyser",
+            "soome keel": "Geysir",
+            "hispaania keel": "Geiser",
+            "saksa keel": "der Geiser",
+            "rootsi keel": "Gejser"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Lomp",
+            "inglise keel": "Puddle",
+            "soome keel": "Lätäkkö",
+            "hispaania keel": "Charca",
+            "saksa keel": "die Pfütze",
+            "rootsi keel": "Pöl"
+        },
+        {
+            "kategooria nr": "22",
+            "Kategooria": "Linnud",
+            "word": "1",
+            "eesti keel": "Paabulind",
+            "inglise keel": "Peacock",
+            "soome keel": "Riikinkukko",
+            "hispaania keel": "Pavo",
+            "saksa keel": "der Pfau",
+            "rootsi keel": "Påfågel"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Tuvi",
+            "inglise keel": "Dove",
+            "soome keel": "Kyyhkynen",
+            "hispaania keel": "Paloma",
+            "saksa keel": "die Taube",
+            "rootsi keel": "Duva"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Luik",
+            "inglise keel": "Swan",
+            "soome keel": "Joutsen",
+            "hispaania keel": "Cisne",
+            "saksa keel": "der Schwan",
+            "rootsi keel": "Svan"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Varblane",
+            "inglise keel": "Sparrow",
+            "soome keel": "Varpunen",
+            "hispaania keel": "Gorrión",
+            "saksa keel": "der Sperling",
+            "rootsi keel": "Sparv"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Vares",
+            "inglise keel": "Crow",
+            "soome keel": "Varis",
+            "hispaania keel": "Corneja",
+            "saksa keel": "die Krähe",
+            "rootsi keel": "Kråka"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Toonekurg",
+            "inglise keel": "White stork",
+            "soome keel": "Tuonenkurki",
+            "hispaania keel": "Cigüeña",
+            "saksa keel": "der Storch",
+            "rootsi keel": "Stork"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Kotkas",
+            "inglise keel": "Eagle",
+            "soome keel": "Kotka",
+            "hispaania keel": "Águila",
+            "saksa keel": "der Adler",
+            "rootsi keel": "Örn"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Pääsuke",
+            "inglise keel": "Swallow",
+            "soome keel": "Pääskynen",
+            "hispaania keel": "Golondrina",
+            "saksa keel": "die Schwalbe",
+            "rootsi keel": "Svala"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Leevike",
+            "inglise keel": "Bullfinch",
+            "soome keel": "Punatulkku",
+            "hispaania keel": "Camachuelo común",
+            "saksa keel": "der Gimpel",
+            "rootsi keel": "Domherre"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Part",
+            "inglise keel": "Duck",
+            "soome keel": "Ankka",
+            "hispaania keel": "Pato",
+            "saksa keel": "die Ente",
+            "rootsi keel": "Anka"
+        },
+        {
+            "kategooria nr": "23",
+            "Kategooria": "Multikategelased",
+            "word": "1",
+            "eesti keel": "Ämblikmees",
+            "inglise keel": "Spider-Man",
+            "soome keel": "Hämahäkkimies",
+            "hispaania keel": "Hombre Araña",
+            "saksa keel": "Spider-Man",
+            "rootsi keel": "Spindelmannen"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Käpapatrullid",
+            "inglise keel": "PAW Patrol",
+            "soome keel": "Ryhmä Hau",
+            "hispaania keel": "La Patrulla Canina",
+            "saksa keel": "PAW Patrol",
+            "rootsi keel": "PAW Patrol"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Käsna-Kalle Kantpüks",
+            "inglise keel": "SpongeBob SquarePants",
+            "soome keel": "Paavo Pesusieni",
+            "hispaania keel": "Bob Esponja",
+            "saksa keel": "SpongeBob Schwammkopf",
+            "rootsi keel": "Svampbob Fyrkant"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Miki Hiir",
+            "inglise keel": "Mickey Mouse",
+            "soome keel": "Mikki Hiiri",
+            "hispaania keel": "Mickey Mouse",
+            "saksa keel": "Micky Maus",
+            "rootsi keel": "Musse Pigg"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Piilupart Donald",
+            "inglise keel": "Donald Duck",
+            "soome keel": "Aku Ankka",
+            "hispaania keel": "Pato Donald",
+            "saksa keel": "Donald Duck",
+            "rootsi keel": "Kalle Anka"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Punamütsike",
+            "inglise keel": "Little Red Riding Hood",
+            "soome keel": "Punahilkka",
+            "hispaania keel": "Caperucita Roja",
+            "saksa keel": "Rotkäppchen",
+            "rootsi keel": "Rödluvan"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Tuhkatriinu",
+            "inglise keel": "Cinderella",
+            "soome keel": "Tuhkimo",
+            "hispaania keel": "La Cenicienta",
+            "saksa keel": "Aschenputtel",
+            "rootsi keel": "Askungen"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Lumivalgeke",
+            "inglise keel": "Snow White",
+            "soome keel": "Lumikki",
+            "hispaania keel": "Blancanieves",
+            "saksa keel": "Schneewittchen",
+            "rootsi keel": "Snövit"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Pippi Pikksukk",
+            "inglise keel": "Pippi Longstocking",
+            "soome keel": "Peppi Pitkätossu",
+            "hispaania keel": "Pippi Calzaslargas",
+            "saksa keel": "Pippi Langstrumpf",
+            "rootsi keel": "Pippi Långstrump"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Teletupsud",
+            "inglise keel": "Teletubbies",
+            "soome keel": "Teletapit",
+            "hispaania keel": "Teletubbies",
+            "saksa keel": "Teletubbies",
+            "rootsi keel": "Teletubbies"
+        },
+        {
+            "kategooria nr": "24",
+            "Kategooria": "Lilled",
+            "word": "1",
+            "eesti keel": "Tulp",
+            "inglise keel": "Tulip",
+            "soome keel": "Tulppaani",
+            "hispaania keel": "Tulipán",
+            "saksa keel": "die Tulpe",
+            "rootsi keel": "Tulpan"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Roos",
+            "inglise keel": "Rose",
+            "soome keel": "Ruusu",
+            "hispaania keel": "Rosa",
+            "saksa keel": "die Rose",
+            "rootsi keel": "Ros"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Sinilill",
+            "inglise keel": "Liverleaf",
+            "soome keel": "Sinivuokko",
+            "hispaania keel": "Hepatica",
+            "saksa keel": "das Leberblümchen",
+            "rootsi keel": "Blåsippa"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Piibeleht",
+            "inglise keel": "Lily of the valley",
+            "soome keel": "Kielo",
+            "hispaania keel": "Convalaria",
+            "saksa keel": "das Maiglöckchen",
+            "rootsi keel": "Liljekonvalje"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Nurmenukk",
+            "inglise keel": "Cowslip",
+            "soome keel": "Kevätesikko",
+            "hispaania keel": "Primula",
+            "saksa keel": "die Schlüsselblume",
+            "rootsi keel": "Gullviva"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Võilill",
+            "inglise keel": "Dandelion",
+            "soome keel": "Voikukka",
+            "hispaania keel": "El diente de león",
+            "saksa keel": "der Löwenzahn",
+            "rootsi keel": "Maskros"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Pojeng",
+            "inglise keel": "Peony",
+            "soome keel": "Pioni",
+            "hispaania keel": "Peonía",
+            "saksa keel": "die Päonie",
+            "rootsi keel": "Pion"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Karikakar",
+            "inglise keel": "Corn chamomile",
+            "soome keel": "Päivänkakkara",
+            "hispaania keel": "Manzanilla bastarda",
+            "saksa keel": "die Hundskamille",
+            "rootsi keel": "Prästkrage"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Nartsiss",
+            "inglise keel": "Daffodil",
+            "soome keel": "Narsissi",
+            "hispaania keel": "Narciso",
+            "saksa keel": "die Narzisse",
+            "rootsi keel": "Narciss"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Nelk",
+            "inglise keel": "Carnation",
+            "soome keel": "Neilikka",
+            "hispaania keel": "Clavel",
+            "saksa keel": "die Nelke",
+            "rootsi keel": "Nejlika"
+        },
+        {
+            "kategooria nr": "25",
+            "Kategooria": "Kalad",
+            "word": "1",
+            "eesti keel": "Tuunikala",
+            "inglise keel": "Tuna",
+            "soome keel": "Tonnikala",
+            "hispaania keel": "Atún",
+            "saksa keel": "der Thunfisch",
+            "rootsi keel": "Tonfisk"
+        },
+        {
+            "word": "2",
+            "eesti keel": "Lõhe",
+            "inglise keel": "Salmon",
+            "soome keel": "Lohi",
+            "hispaania keel": "Salmón",
+            "saksa keel": "der Lachs",
+            "rootsi keel": "Lax"
+        },
+        {
+            "word": "3",
+            "eesti keel": "Ahven",
+            "inglise keel": "Perch",
+            "soome keel": "Ahven",
+            "hispaania keel": "Perca",
+            "saksa keel": "der Barsch",
+            "rootsi keel": "Abborre"
+        },
+        {
+            "word": "4",
+            "eesti keel": "Angerjas",
+            "inglise keel": "Eel",
+            "soome keel": "Ankerias",
+            "hispaania keel": "Anguila",
+            "saksa keel": "der Aal",
+            "rootsi keel": "Ål"
+        },
+        {
+            "word": "5",
+            "eesti keel": "Forell",
+            "inglise keel": "Trout",
+            "soome keel": "Purotaimen",
+            "hispaania keel": "Trucha",
+            "saksa keel": "die Forelle",
+            "rootsi keel": "Forell"
+        },
+        {
+            "word": "6",
+            "eesti keel": "Tursk",
+            "inglise keel": "Cod",
+            "soome keel": "Turska",
+            "hispaania keel": "Bacalao",
+            "saksa keel": "der Dorsch",
+            "rootsi keel": "Torsk"
+        },
+        {
+            "word": "7",
+            "eesti keel": "Hai",
+            "inglise keel": "Shark",
+            "soome keel": "Hai",
+            "hispaania keel": "Tiburon",
+            "saksa keel": "der Hai",
+            "rootsi keel": "Haj"
+        },
+        {
+            "word": "8",
+            "eesti keel": "Heeringas",
+            "inglise keel": "Herring",
+            "soome keel": "Silli",
+            "hispaania keel": "Arenque",
+            "saksa keel": "der Hering",
+            "rootsi keel": "Sill"
+        },
+        {
+            "word": "9",
+            "eesti keel": "Lest",
+            "inglise keel": "Flounder",
+            "soome keel": "Kampela",
+            "hispaania keel": "Platija",
+            "saksa keel": "die Scholle",
+            "rootsi keel": "Flundra"
+        },
+        {
+            "word": "10",
+            "eesti keel": "Säga",
+            "inglise keel": "Catfish",
+            "soome keel": "Monni",
+            "hispaania keel": "Siluro",
+            "saksa keel": "der Wels",
+            "rootsi keel": "Mal"
+        }
+    ]
+}
