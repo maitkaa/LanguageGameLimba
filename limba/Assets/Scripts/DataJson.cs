@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
- public class Word
+ public class Words
 {
 
     public string catNr;
@@ -18,5 +18,5 @@ using UnityEngine;
 }
 public class RootObject
 {
-    public List<Word> words;
+    public List<Words> words;
 }

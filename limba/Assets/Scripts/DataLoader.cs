@@ -1,18 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using Newtonsoft.Json;
 
 public class DataLoader : MonoBehaviour
 {
-   
 
+    List<Words> MyData = new List<Words>();
+    
     void Awake()
     {
 
-        List<Word> MyData = new List<Word>();
+        
         LoadData("data.json");
-      
+    
     }
    
    
@@ -23,15 +25,15 @@ public class DataLoader : MonoBehaviour
         Debug.Log(myLoadedItem);
       
         RootObject myData = JsonConvert.DeserializeObject<RootObject>(myLoadedItem);
-        for (int i = 0; i < 251; i++)
+        for (int i = 0; i < 250; i++)
         {
-           
-            myData.words.Add(myData);
-           
+            
+            //myData.words.Add(myData);
+        // Debug.Log(myData.words);
         }
        
-        Word singleWord = myData.words[0];
-        Debug.Log(myData.words.Count);
-       ///toimib midagi
+        Words singleWord = myData.words[0];
+       // Debug.Log(myData.words.Count);
+       
     }
 }   

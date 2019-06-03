@@ -9,6 +9,7 @@ TagManager:
   - WORD
   - SWE
   - "s\xF5nakast"
+  - Lang
   layers:
   - Default
   - TransparentFX

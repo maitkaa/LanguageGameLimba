@@ -6,7 +6,7 @@ public class OnCol : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D col)
     {
-        //GameObject WordBox = GameObject.FindGameObjectWithTag("WORD");
+        GameObject WordBox = GameObject.FindGameObjectWithTag("WORD");
         for (int i = 1; i < 6; i++)
         {
             if (col.transform.gameObject.tag == "WORD")
